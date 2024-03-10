@@ -1,29 +1,26 @@
 GAME DESIGN DOCUMENT TEMPLATE
 =============================
-1. Title Page
-   1. Game Name
-   2. Sub-title    
-   3. Catchy quote
+1. Title : Small Top Down
+   1. Game Name : Small Top Down
+   2. Sub-title : Small Top Down
    4. Additional info	
-       1. Developer/Company Name
-       2. GDD author/supervisior
+       1. Developer/Company Name : Bang Jald.co
+       2. GDD author/supervisior : Bang Jald
 2. Design History
    1.  Version 1.0
-   2.  Version 1.1
-   3.  Version 2.0...
 3. Overview of the Game
    1.  Game Concept
+       the core gameplay is just as simple as a sprite in a single scene with less variety of enemies, less obstacles, simple textures, melee attacks, simple controls, basic shading, basic sound effect, simple music (ncs), basic UI. Version 1.1 updates add menu scene, quit button, options scene, etc.
        1. High Concept
        2. Key Features
            1. Single Player
-           2. Multiplayer
-           3. Editor
+           2. Editor
        3. Design Questions
            1. Game's Point and Philosophy
            2. What is different?
-   2.  Genre
-   3.  Target Audience
-   4.  Game Experiencing
+   3.  Genre : action
+   4.  Target Audience : beginner developers (myself) :D
+   5.  Game Experiencing
         1. Game Flow
         2. Look and Feel
 4. Gameplay
